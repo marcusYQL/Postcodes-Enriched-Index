@@ -6,6 +6,7 @@ Welcome to the Postcodes Enriched/Index project! This initiative aims to create 
 Overview
 
 Duration: June 2022 – December 2022
+
 Responsibilities: Led all aspects of the project, from concept to implementation, focusing on enriching and improving the dataset.
 
 Features
